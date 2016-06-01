@@ -1,14 +1,18 @@
-layout_spectrum: 0.6530867454130203
 typography_spectrum: 0.14938274817541242
+content_rating:
+  adult: true
 color:
   brandStrength: 0.289871723158285
   lightness: 0.41912404308095574
   saturation: 0.6900106647517532
   rhythmicContrast: 0.8593281097710133
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+layout_spectrum: 0.6530867454130203
+logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b704df6-2cf0-4122-896d-d5850fe268ad.jpg'
 name: For The Free
+title: All of our music is free
